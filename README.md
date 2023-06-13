@@ -1,5 +1,5 @@
 ## Ex no: 8
-## Date: 18/5/2022
+## Date: 19.04.2023
 # <p align="center">Edge linking using Hough Transform
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
